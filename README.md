@@ -73,3 +73,9 @@ Pontos a melhorar nas próximas versões:
 Jogo 3D de captura de bandeira em Unity (C#, URP) com 4 robôs de habilidades distintas, IA, cronômetro de 5 minutos,
 regras de vitória por kills e bandeira, buracos que fazem tropeçar, lasers pelos olhos com mira do usuário e falas em
 nordestinês. Arena, robôs, materiais e interface são gerados por código.
+
+## 📘 Manual completo
+Controles, regras, robôs, como baixar, jogar e resolver problemas: veja o [MANUAL.md](MANUAL.md).
+
+---
+Documentação por **Consultoria & Mentoria Blanco**.
